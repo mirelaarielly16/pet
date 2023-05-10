@@ -14,3 +14,9 @@
     margin: 0 16px;
     font-size: 24px;
 }
+.pet-imagem{
+    width:25%;
+}
+.escola {
+    background-image: linear-gradient(#68038b);
+}
