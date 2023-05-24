@@ -25,8 +25,14 @@ justify-content: center;
 align-items: center;
 padding: 24px 0;}
 .pet-conteudo{
-width: 45%;
+width: 50%;
 }
 .pet-titulo {
     padding: 24px 0;
+}
+body{
+ font-family: 'Dancing Script', cursive;
+}
+.tipo-de-pet-imagem{
+    width: 120px;
 }
