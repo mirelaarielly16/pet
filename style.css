@@ -23,9 +23,10 @@ color: white;
 display:flex;
 justify-content: center;
 align-items: center;
-padding: 24px 0;}
+padding: 24px 0;
+}
 .pet-conteudo{
-width: 50%;
+    width: 50%;
 }
 .pet-titulo {
     padding: 24px 0;
@@ -35,4 +36,15 @@ body{
 }
 .tipo-de-pet-imagem{
     width: 120px;
+}
+.pet-div {
+    text-align: center;}
+
+.tipos-de-pet{
+    text-align: center;
+    padding: 50px 0;
+}
+.pet-todos {
+display: grid;
+grid-template-columns: 20% 20% 20%;
 }
