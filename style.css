@@ -38,8 +38,8 @@ body{
     width: 120px;
 }
 .pet-div {
-    text-align: center;}
-
+    text-align: center;
+    padding: 16px 0;}
 .tipos-de-pet{
     text-align: center;
     padding: 50px 0;
@@ -47,4 +47,16 @@ body{
 .pet-todos {
 display: grid;
 grid-template-columns: 20% 20% 20%;
+}
+.rodape{
+background-color: black;
+text-align: center;
+}
+.rodape-imagem{
+height: 60px;
+padding: 12px 0;
+}
+* {
+    margin: 0;
+    padding: 0;
 }
